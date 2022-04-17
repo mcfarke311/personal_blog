@@ -1,4 +1,7 @@
-# The Little Guide to be an Excel Pro!
+---
+layout: post
+title: The Little Guide to be an Excel Pro!
+---
 ## Five tips to help you use Excel more effectively
 
 Hello, and thank you for coming to my little piece of the internet. I hope that you enjoy your stay😊. Today, I am going to give you five quick tips that will help you advance in your excel usage without coding! You won't have to touch any VBA for this one, nor will you need to program with another language and install some fancy driver to automate stuff - although we will probably get to that in another post one day. If you have read my BIO or my about page, you know that I was a validation engineer. Basically we tested our product to make sure that it satisfies the customer use cases. To do that, we put all of our tests in a database for automated execution as well as progress tracking. In doing this, we used Excel to both manipulate and investigate tests and to generate reports - and I got a lot of questions about using Excel. Today, I am going to answer some of the most common questions as well as provide helpful solutions to what I think are very common issues. 
